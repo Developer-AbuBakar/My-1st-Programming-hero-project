@@ -1,0 +1,55 @@
+header{
+    background-image: url(bg.jpg);
+    height: 850px;
+    padding-top: 40px;
+    background-position: center;
+    background-size: cover;   
+    
+}
+.head-0{
+    color:yellow ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 40px 200px;
+    text-align: center;
+    background-color: rgb(75, 250, 212);
+    border-radius: 55px ;
+    border: 5px solid red;
+    padding: 50px;
+    
+}
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: underline;
+
+}
+
+.inline{
+    display: inline-block;
+    border: 4px solid black;
+}
+
+.head1{
+    background-color: cornflowerblue;
+    margin: -135px 108px 200px;
+    border-radius: 60px ;
+    border: 5px;
+    padding: 35px 40px;
+    border-left-color: antiquewhite;
+
+
+}
+
+button{
+    
+    margin: 20px 20px 100px 20px;
+    padding: 30px 40px;
+    text-align: center;
+    border: 4px solid rgb(12, 14, 10);
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 60px;
+    display: inline-block;
+
+}
